@@ -14,7 +14,7 @@
   <img align="center" alt="Isa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Isa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Isa-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="right" alt="Isa-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/996173494062686341/996173629886836856/ezgif.com-gif-maker.gif?width=406&height=406">
+  <img align="right" alt="Isa-gif" height="150" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/10222622-100026757841_2-s5-v1.png?transparent=1&palette=1&scale=2">
 </div>
   
   ##
