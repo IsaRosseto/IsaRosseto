@@ -1,8 +1,15 @@
 ## Olá! eu sou a Isabella Rosseto
+
+<h4> Esse é meu cartão de visita! </h4>
+
 <div align="center">
+  <img src= "https://user-images.githubusercontent.com/92994715/204103026-fcd326a0-3957-4483-ba0c-beb13f814de5.png" height = "200em"/>
+  
+  ##
+  
   <a href="https://github.com/IsaRosseto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaRosseto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaRosseto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaRosseto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaRosseto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
