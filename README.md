@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src= "https://user-images.githubusercontent.com/92994715/204154658-6bff992c-b733-43e0-a464-763a73bf8dbe.png" height = "260em"/>
+  <img src= "https://user-images.githubusercontent.com/92994715/204154658-6bff992c-b733-43e0-a464-763a73bf8dbe.png" height = "280em"/>
 
   <a href="https://github.com/IsaRosseto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaRosseto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -28,6 +28,7 @@
   <a href="mailto:isabellavs.rosseto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/isabella-rosseto-748175245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://t.me/IsabellaRosseto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@me/914666866029502476"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
 
 
