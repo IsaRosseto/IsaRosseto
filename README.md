@@ -1,11 +1,11 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&pause=2000&color=F7AF1D&center=verdadeiro&vCenter=falso&width=800&height=80&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
   
-<a href="https://www.linkedin.com/in/isabella-rosseto-748175245/"><img src="https://img.icons8.com/ios/50/FAB005/linkedin.png" target="_blank"></a>
-<a href="https://instagram.com/Isavisieto"> <img src="https://img.icons8.com/ios/50/FAB005/instagram.png" target_blank></a>
-<a href="mailto:isabellavs.rosseto@gmail.com"><img src="https://img.icons8.com/ios/50/FAB005/gmail--v1.png" target_blank></a>
-<a href="https://t.me/IsabellaRosseto"><img src="https://img.icons8.com/ios-glyphs/50/FAB005/telegram-app.png" target_blank></a>
-<a href="https://discord.com/channels/@me/914666866029502476"> <img src="https://img.icons8.com/ios/50/FAB005/discord-logo--v1.png" target_blank></a>
+<a href="https://www.linkedin.com/in/isabella-rosseto/"><img src="https://img.icons8.com/ios/40/FAB005/linkedin.png" target="_blank"></a>
+<a href="mailto:isabellavs.rosseto@gmail.com"><img src="https://img.icons8.com/ios/40/FAB005/gmail--v1.png" target_blank></a>
+<a href="https://t.me/IsabellaRosseto"><img src="https://img.icons8.com/ios-glyphs/40/FAB005/telegram-app.png" target_blank></a>
+<a href="https://instagram.com/Isavisieto"> <img src="https://img.icons8.com/ios/40/FAB005/instagram-new--v1.png" target_blank></a>
+<a href="https://discord.com/channels/@me/914666866029502476"> <img src="https://img.icons8.com/ios/40/FAB005/discord-logo--v1.png" target_blank></a>
   
   </div>
   
