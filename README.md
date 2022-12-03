@@ -1,4 +1,6 @@
-## Olá! eu sou a Isabella Rosseto
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=5004&pause=1000&color=F7AF1D&center=verdadeiro&vCenter=falso&width=435&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  </div>
 
 <h4> Esse é meu cartão de visita! </h4>
 
@@ -62,8 +64,6 @@
  <a href="https://t.me/IsabellaRosseto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me/914666866029502476"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
-
-
-  
- 
 </div>
+
+  ![Snake animation](https://github.com/IsaRosseto/IsaRosseto/blob/output/github-contribution-grid-snake.svg)
