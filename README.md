@@ -47,7 +47,7 @@
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
-
+  <img align="right" alt="Isa-gif" height="200" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/10222622-100026757841_2-s5-v1.png?transparent=1&palette=1&scale=2">
   
   ##
   
@@ -59,10 +59,7 @@
   <img alt="GOOGLE-ANALYTICS" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   
 
-  <img align="right" alt="Isa-gif" height="200" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/10222622-100026757841_2-s5-v1.png?transparent=1&palette=1&scale=2">
+
 </div>
   
-  ##
  
-
-  ![Snake animation](https://github.com/IsaRosseto/IsaRosseto/blob/output/github-contribution-grid-snake.svg)
