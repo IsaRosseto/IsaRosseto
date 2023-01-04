@@ -6,7 +6,8 @@
 <a href="https://t.me/IsabellaRosseto"><img src="https://img.icons8.com/ios-glyphs/40/FAB005/telegram-app.png" target_blank></a>
 <a href="https://instagram.com/Isavisieto"> <img src="https://img.icons8.com/ios/40/FAB005/instagram-new--v1.png" target_blank></a>
 <a href="https://discord.com/channels/@me/914666866029502476"> <img src="https://img.icons8.com/ios/40/FAB005/discord-logo--v1.png" target_blank></a>
-  
+  <br>  
+  <h6> Os ícones acima são clicáveis </h6> 
   </div>
   
 ##
