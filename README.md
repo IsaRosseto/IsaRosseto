@@ -59,6 +59,12 @@
   <img alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img alt="GOOGLE-ANALYTICS" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
   
+<br><h3 align="centre"><b>Visitantes</b></h3>  
+       <img src="https://komarev.com/ghpvc/?username=IsaRosseto&style=plastic&color=C66338" width="180px">
+   
+
+<br></div>
+
 
 
 </div>
