@@ -17,6 +17,12 @@
 <div align="center">
   
   <img src= "https://user-images.githubusercontent.com/92994715/204154658-6bff992c-b733-43e0-a464-763a73bf8dbe.png" height = "280em"/>
+  
+  <a href="https://github.com/IsaRosseto">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IsaRosseto&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaRosseto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+  
 
 
 <div style="display: inline_block"><br>
