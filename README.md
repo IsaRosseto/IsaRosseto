@@ -25,7 +25,7 @@
   
   <div align = "center">
 <a href="https://git.io/streak-stats">
-  <img height="160em" width="800em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaRosseto&theme=vision-friendly-dark"/> 
+  <img height="160em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaRosseto&theme=vision-friendly-dark"/> 
 </div>
 
 
