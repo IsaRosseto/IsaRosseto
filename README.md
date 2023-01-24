@@ -23,6 +23,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaRosseto&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
+  <div align = "center">
+<a href="https://git.io/streak-stats">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaizaCirne&theme=nightowl"/> 
+</div>
 
 
 <div style="display: inline_block"><br>
